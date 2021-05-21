@@ -2,7 +2,7 @@
 
 #### Storage, Memory and the Stack 
 
-<img src=.\memory.PNG" style="zoom:60%;" />
+<img src=.\memory.PNG" />
 
 The Ethereum Virtual Machine has three areas where it can store data- storage, memory and the stack, which are explained in the following paragraphs.
 
