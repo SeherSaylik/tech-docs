@@ -1,6 +1,7 @@
 ### --------Solidity--------------- 
 
 #### Storage, Memory and the Stack 
+<img src="./memory.PNG">
 
 ![memory](./memory.PNG 30x20)
 
