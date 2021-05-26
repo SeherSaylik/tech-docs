@@ -1,4 +1,4 @@
-# Privacy Policy
+# Archi's Academy Privacy Policy
 
 We thoroughly recognize the importance of protecting personally identifiable information ("Personal Information"). We believe that properly handling Personal Information is part of our social responsibility, and declare that we strive to protect Personal Information in accordance with the following policies:
 
