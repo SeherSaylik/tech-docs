@@ -1,4 +1,5 @@
-POLYGON
+**POLYGON**
+
 Supports two major types of Ethereum-compatible networks:
 1.	Stand-alone networks
 *These networks are fully sovereign and responsible from only its own pool.
