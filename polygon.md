@@ -2,12 +2,21 @@
 
 Supports two major types of Ethereum-compatible networks:
 1.	Stand-alone networks
+
+
 *These networks are fully sovereign and responsible from only its own pool.
+
 *They can have their own consensus models such as PoS or DPos.
+
 *Side chains(Ethereum-compatible, independent blockchains which employ their own consensus models and block parameters to efficiently process transactions.)
+
 2.	Secured chains
+
+
 *Service can be provided either by Ethereum directly or by a pool of professional validators like Polkadot's.
+
 *Layer 2
+
 ![image](https://user-images.githubusercontent.com/73213970/119818521-ffa2f000-bef7-11eb-9c05-befa651d14ea.png)
 
 **What is Matic?**
